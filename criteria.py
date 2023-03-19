@@ -1,0 +1,5 @@
+part1 = "Give me a helpful practice test for school students on the "
+part2 = " with the following requirements: the test must be ten questions, "
+part3 = "multiple choice (4 choices per question, lettered A., B., C., D.), "
+part4 = "with questions in the format of: 1., 2., 3., and the answers listed at the end after 'Answer Key:' "
+part5 = "with the correct letter choice next to the corresponding question number."
